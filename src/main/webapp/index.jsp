@@ -16,7 +16,6 @@
 
 <ul>
   <li>유동현</li>
-  <li>윤승휘</li>
 </ul>
 
 <a href="http://fow.kr">Mozilla Manifesto</a>
